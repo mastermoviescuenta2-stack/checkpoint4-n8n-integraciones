@@ -13,10 +13,10 @@ Este proyecto implementa la interconexión bidireccional de un sistema multi-age
 A continuación se evidencian las conexiones autenticadas en n8n:
 
 ### Gmail OAuth2 API
-![Gmail Credencial](credentials_gmail.png)
+![Gmail Credencial] (credentials_gmail.png)
 
 ### Slack OAuth2 API
-![Slack Credencial](credentials_slack.png)
+![Slack Credencial] (credentials_slack.png)
 
 ### HubSpot Service Key
-![HubSpot Credencial](credentials_hubspot.png)
+![HubSpot Credencial] (credentials_hubspot.png)
